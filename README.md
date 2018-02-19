@@ -1,5 +1,28 @@
+XefoCoin is a hybrid PoW/PoS cryptocurrency.
+===========================
+
+Mainnet:
+===========================
+-RPC port	33456
+
+-P2P port	33455
+
+Specifications:
+===========================
+-Short: $XEF
+
+-Total coin: 500  Million coin cap.
+
+-SCRYPT hashing algorithm
+
+-500 coins per block
+
+-Stake Interest: 1%
+
+-Transaction confirmations 12 blocks
 
 XefoCoin development tree
+===========================
 
 XefoCoin is a PoS-based cryptocurrency.
 
