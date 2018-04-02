@@ -1,4 +1,4 @@
-XefoCoin is a hybrid PoW/PoS cryptocurrency.
+XefoCoin is a PoS cryptocurrency.
 ===========================
 
 Mainnet:
@@ -15,11 +15,7 @@ Specifications:
 
 -SCRYPT hashing algorithm
 
--500 coins per block
-
 -Stake Interest: 1%
-
--Transaction confirmations 12 blocks
 
 License
 ===========================
