@@ -1,4 +1,4 @@
-XefoCoin is a PoS cryptocurrency.
+XefoCoin is a Pow/PoS cryptocurrency.
 ===========================
 
 Mainnet:
